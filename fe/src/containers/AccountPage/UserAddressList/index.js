@@ -66,7 +66,7 @@ function AddressUserList(props) {
               {index === 0 && !isCheckout && (
                 <span
                   className="font-size-12px p-tb-4 p-lr-8 m-l-8 bor-rad-4"
-                  style={{ border: 'solid 1px #3a5dd9', color: '#3a5dd9' }}>
+                  style={{ border: 'solid 1px #FE980F', color: '#FE980F' }}>
                   Mặc định
                 </span>
               )}

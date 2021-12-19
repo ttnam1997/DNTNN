@@ -19,25 +19,25 @@ function FooterView() {
           <div className="d-flex flex-direction-column">
             <h2 className="footer-contact-item">Tư vấn mua hàng</h2>
             <h2 className="footer-contact-item">
-              <b>0840.67.9081</b>
+              <b>0965431798</b>
             </h2>
           </div>
           <div className="d-flex flex-direction-column">
             <h2 className="footer-contact-item">Tư vấn đào tạo</h2>
             <h2 className="footer-contact-item">
-              <b>0841.67.9111</b>
+              <b>0123456232</b>
             </h2>
           </div>
           <div className="d-flex flex-direction-column">
             <h2 className="footer-contact-item">Tư vấn quảng cáo</h2>
             <h2 className="footer-contact-item">
-              <b>0842.67.9022</b>
+              <b>0842674983</b>
             </h2>
           </div>
           <div className="d-flex flex-direction-column">
             <h2 className="footer-contact-item">Hỗ trợ kỹ thuật</h2>
             <h2 className="footer-contact-item">
-              <b>090.267.9011</b>
+              <b>0328901733</b>
             </h2>
           </div>
         </div>
@@ -46,18 +46,16 @@ function FooterView() {
       <div className="container p-tb-32">
         <p className="t-center" style={{ color: '#888' }}>
           <span className="font-size-18px">
-            CÔNG TY CỔ PHẦN THƯƠNG MẠI - DỊCH VỤ TTB STORE
+            KHOA HỌC MÁY TÍNH
           </span>
           <br />
-          <strong>Trụ sở:</strong>&nbsp;Số 16 VillaD, The Manor, khu đô thị mới
-          Mỹ Đình Mễ Trì, Phường 1, Quận 12, Thành phố Hồ Chí Minh
+          <strong>Trụ sở:</strong>&nbsp; Làng đại học Đà Nẵng, Nam Kì Khởi Nghĩa, Hòa Quý, Ngũ Hành Sơn, Đà Nẵng
           <br />
-          <strong>Văn phòng:</strong>&nbsp; Tầng 16, Tòa Văn phòng, Vincom, số
-          54 Nguyễn Chí Thanh, Phường 5, Quận 12, Thành phố Hồ Chí Minh
+          <strong>Văn phòng:</strong>&nbsp; Làng đại học Đà Nẵng, Nam Kì Khởi Nghĩa, Hòa Quý, Ngũ Hành Sơn, Đà Nẵng
           <br />
-          <strong>Điện&nbsp;thoại:</strong>&nbsp;0840.67.9081 |{' '}
-          <strong>Email:</strong>&nbsp;ttbstore@gmail.com&nbsp;|{' '}
-          <strong>Website:</strong>&nbsp;<a href="/">ttbstore.vn</a>
+          <strong>Điện&nbsp;thoại:</strong>&nbsp;039 200 2211|{' '}
+          <strong>Email:</strong>&nbsp;store@gmail.com&nbsp;|{' '}
+          <strong>Website:</strong>&nbsp;<a href="/">store.vn</a>
         </p>
         <div className="d-flex align-i-center justify-content-center">
           <img src={registeredImg} width={175} />
@@ -65,7 +63,7 @@ function FooterView() {
             <img src={iconPhoneFooter} />
             <div className="t-center m-l-16">
               <h2 style={{ color: '#CE1F26' }}>Hotline</h2>
-              <h2 style={{ color: '#CE1F26' }}>0840.67.9088</h2>
+              <h2 style={{ color: '#CE1F26' }}>012 245 2241</h2>
             </div>
           </div>
           <div className="d-flex">

@@ -61,17 +61,27 @@ li {
 }
 
 .ant-btn-primary {
-  background-color: #3a5dd9;
+  background-color: #FE980F;
   &:hover,
   &:active,
   &:focus {
-    background-color: #3a5dd9;
+    background-color: #FE980F;
     -webkit-filter: brightness(1.2);
     filter: brightness(1.2);
   }
   border: none;
 }
-
+.anticon svg {
+  display: inline-block;
+}
 .ant-form-item {
   margin-bottom: 0 !important;
+}
+.ant-pagination-item-active a {
+  color: #f8a02d;
+}
+.ant-pagination-item-active {
+  font-weight: 500;
+  background: #fff;
+  border-color: #f8a02d;
 }
